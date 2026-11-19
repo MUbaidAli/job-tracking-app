@@ -125,3 +125,8 @@
 background-color: #f76382;
 color: var(--background);
 }
+
+.active {
+  background-color: #d7d7d7;
+  color: black;
+}
